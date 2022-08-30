@@ -106,10 +106,10 @@ body {
 
 @media  (max-width: 450px) {
     .container{
-        width: 350px;
+        width: 380px;
     }
 
     .center_content .content{
-        width: 340px;
+        width: 360px;
     }
 }
