@@ -1,5 +1,6 @@
 body {
     min-height: 100vh;
+    background: linear-gradient(#9bf6ff, #ffcdb2, #ffadad);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -104,12 +105,12 @@ body {
 
 
 
-@media  (max-width: 450px) {
-    .container{
+@media (max-width: 450px) {
+    .container {
         width: 380px;
     }
 
-    .center_content .content{
+    .center_content .content {
         width: 360px;
     }
 }
