@@ -101,3 +101,15 @@ body {
 .content p {
     font-size: 13px;
 }
+
+
+
+@media  (max-width: 400px) {
+    .container{
+        width: 350px;
+    }
+
+    .center_content .content{
+        width: 340px;
+    }
+}
